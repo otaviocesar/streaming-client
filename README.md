@@ -1,7 +1,7 @@
 
-![Streaming BoilerPlate](https://raw.githubusercontent.com/otaviocesar/streaming/main/public/img/boilerplate.svg)
+![Streaming Client](https://raw.githubusercontent.com/otaviocesar/streaming-client/master/public/img/client.svg)
 
-This is a [Next.js](https://nextjs.org/) streaming project boilerplate. 
+This is a [Next.js](https://nextjs.org/) streaming project client. 
 ![ci](https://github.com/otaviocesar/streaming/workflows/ci/badge.svg)
 ## What is inside?
 
